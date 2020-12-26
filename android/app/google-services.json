@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930344447878",
+    "project_id": "study-plan-bc289",
+    "storage_bucket": "study-plan-bc289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930344447878:android:ee38b30b55608ab8c14607",
+        "android_client_info": {
+          "package_name": "br.com.unicamp.study_plan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930344447878-7bamm020npc5vq9ui6smp3p62l5g2mgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAgtVq5-m7GnCL8nBYj_9_m-FUUy1BLr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930344447878-7bamm020npc5vq9ui6smp3p62l5g2mgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
